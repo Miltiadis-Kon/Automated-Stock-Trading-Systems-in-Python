@@ -1,0 +1,6 @@
+alpaca-py
+lumibot
+pandas
+numpy
+plotly
+pandas_ta
