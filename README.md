@@ -3,6 +3,7 @@
 This repository contains Python implementations of systematic trading strategies mentioned in the book **Laurens Bensdorp - Automated Stock Trading Systems_ A Systematic Approach for Traders to Make Money in Bull, Bear and Sideways (2020, Lioncrest Publishing)**
  using the `lumibot` algorithmic trading framework and `pandas_ta` for technical analysis. 
 
+![Automated Stock Trading Systems](image.png)
 ## Overview
 
 This project implements various automated trading systems focusing on different market conditions and strategic approaches. Each system is designed to work independently or as part of a broader portfolio approach.
